@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DrinkPopup /> renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#121212",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Modal
+    animationType="fade"
+    hardwareAccelerated={false}
+    transparent={true}
+    visible={true}
+  >
+    <RCTSafeAreaView
+      style={
+        {
+          "backgroundColor": "#121212",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignSelf": "flex-end",
+            "backgroundColor": "#fff",
+            "borderRadius": 20,
+            "height": 40,
+            "marginRight": 10,
+            "marginTop": 10,
+            "opacity": 1,
+            "width": 40,
+          }
+        }
+      >
+        <Image
+          source={1}
+          style={
+            {
+              "height": 40,
+              "width": 40,
+            }
+          }
+        />
+      </View>
+    </RCTSafeAreaView>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "#121212",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "fontSize": 30,
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        drink1
+      </Text>
+      <Image
+        source={1}
+        style={
+          {
+            "alignSelf": "center",
+            "height": 150,
+            "marginBottom": 10,
+            "width": 150,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "fontSize": 24,
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Ingredients:
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        - 
+        ingedient1
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        - 
+        ingedient2
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        - 
+        ingedient3
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "fontSize": 24,
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Instructions:
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "marginBottom": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        instructions
+      </Text>
+    </View>
+  </Modal>
+</RCTSafeAreaView>
+`;

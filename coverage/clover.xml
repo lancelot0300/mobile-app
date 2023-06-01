@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1685567210156" clover="3.2.0">
+  <project timestamp="1685567210156" name="All files">
+    <metrics statements="93" coveredstatements="7" conditionals="23" coveredconditionals="0" methods="29" coveredmethods="1" elements="145" coveredelements="8" complexity="0" loc="93" ncloc="93" packages="13" files="15" classes="15"/>
+    <package name="mobile-app">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/Users/kryst/Desktop/mobile-app/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="mobile-app.app">
+      <metrics statements="39" coveredstatements="2" conditionals="8" coveredconditionals="0" methods="9" coveredmethods="1"/>
+      <file name="_layout.js" path="/Users/kryst/Desktop/mobile-app/app/_layout.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/kryst/Desktop/mobile-app/app/index.js">
+        <metrics statements="14" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="login.js" path="/Users/kryst/Desktop/mobile-app/app/login.js">
+        <metrics statements="23" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="5" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.CustomButton">
+      <metrics statements="4" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="CustomButton.js" path="/Users/kryst/Desktop/mobile-app/components/CustomButton/CustomButton.js">
+        <metrics statements="4" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.CustomInput">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="CustomInput.js" path="/Users/kryst/Desktop/mobile-app/components/CustomInput/CustomInput.js">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.DrinkPopup">
+      <metrics statements="5" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="DrinkPopup.js" path="/Users/kryst/Desktop/mobile-app/components/DrinkPopup/DrinkPopup.js">
+        <metrics statements="5" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.IngredientList">
+      <metrics statements="7" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="IngredientList.js" path="/Users/kryst/Desktop/mobile-app/components/IngredientList/IngredientList.js">
+        <metrics statements="7" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.MenuButton">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="MenuButton.js" path="/Users/kryst/Desktop/mobile-app/components/MenuButton/MenuButton.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.NameInput">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="NameInput.js" path="/Users/kryst/Desktop/mobile-app/components/NameInput/NameInput.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.ProfileButton">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ProfileButton.js" path="/Users/kryst/Desktop/mobile-app/components/ProfileButton/ProfileButton.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.components.ReciptList">
+      <metrics statements="6" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="ReciptList.js" path="/Users/kryst/Desktop/mobile-app/components/ReciptList/ReciptList.js">
+        <metrics statements="6" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.hooks">
+      <metrics statements="17" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="useFetch.jsx" path="/Users/kryst/Desktop/mobile-app/hooks/useFetch.jsx">
+        <metrics statements="17" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.store">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.js" path="/Users/kryst/Desktop/mobile-app/store/store.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="mobile-app.store.authSlices">
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="authSlice.js" path="/Users/kryst/Desktop/mobile-app/store/authSlices/authSlice.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

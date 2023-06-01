@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReciptList /> renders correctly 1`] = `
+<RCTScrollView
+  data={
+    {
+      "drink1": {
+        "ingredients": {
+          "ingedient1": "true",
+          "ingedient2": "false",
+          "ingedient3": "true",
+        },
+        "instructions": "instruction1",
+        "name": "margarita",
+      },
+    }
+  }
+  getItem={[Function]}
+  getItemCount={[Function]}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  stickyHeaderIndices={[]}
+  style={
+    {
+      "flex": 1,
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+  viewabilityConfigCallbackPairs={[]}
+>
+  <View />
+</RCTScrollView>
+`;
